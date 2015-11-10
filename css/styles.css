@@ -7,6 +7,11 @@ li {
       width: 33%;
 }
 
+body {
+    background-image: url(http://previews.123rf.com/images/bbourdages/bbourdages1002/bbourdages100200012/6331436-Mountain-Bike-Tracks-in-Mud-Background-Stock-Photo.jpg)
+        
+}
+
 /* Base Styling and Visited*/
 a:link,
 a:visited {
@@ -35,10 +40,12 @@ a:active {
 /*fonts*/
 
 h1, h2 {
-    font-family: 'Frijole', cursive;}
+    font-family: 'Frijole', cursive;
+    color: ghostwhite}
 
 p, blockquote {
-    font-family: 'Permanent Marker', cursive;}
+    font-family: 'Permanent Marker', cursive;
+color:aliceblue}
 
 blockquote {
     font-size: 2em;
